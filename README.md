@@ -12,6 +12,7 @@ Bill of materials:
 2. [Thermocouple amplifier MAX31855](https://www.adafruit.com/products/269) To get cleaner, more accurate signal. Highly recommended
 
 3. [K-junction thermocouple](https://www.adafruit.com/products/270) Investing in a glass-braided one is recommended if used for high temperature applications
+4. [Momentary push button](http://www.amazon.com/Panel-Momentary-Tactile-Button-Switch/dp/B005YX046I/ref=sr_1_11?ie=UTF8&qid=1442873639&sr=8-11&keywords=momentary+push+button)
 
 Circuit:
 
